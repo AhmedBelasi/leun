@@ -388,7 +388,7 @@ small
  }
 
  @media (max-width: 350px) {
- .services .services-content {
+ .portfolio .portfolio-content {
           display: flex;
           flex-direction: column;
         }
