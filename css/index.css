@@ -305,7 +305,7 @@ small
     margin-top: 80px;
     }
 
-     @media (max-width: 440px) {
+     @media (max-width: 400px) {
         .services .services-content {
           display: flex;
           flex-direction: column;
@@ -387,7 +387,7 @@ small
     margin-top: 80px;
  }
 
- @media (max-width: 350px) {
+ @media (max-width: 400px) {
  .portfolio .portfolio-content {
           display: flex;
           flex-direction: column;
