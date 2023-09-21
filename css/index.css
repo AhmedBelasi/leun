@@ -310,7 +310,7 @@ small
           display: flex;
           flex-direction: column;
         }
-
+     }
     .services .srv {
         display: flex;
         margin-bottom: 30px;
@@ -388,10 +388,11 @@ small
  }
 
  @media (max-width: 350px) {
- .portfolio .portfolio-content {
-    display: flex;
-    flex-direction: column;
-  }
+ .services .services-content {
+          display: flex;
+          flex-direction: column;
+        }
+     }
          
  .portfolio .portfolio-content .card{
     background-color:#ffffff;
