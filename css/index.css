@@ -305,6 +305,12 @@ small
     margin-top: 80px;
     }
 
+     @media (max-width: 350px) {
+        .services .services-content {
+          display: flex;
+          flex-direction: column;
+        }
+
     .services .srv {
         display: flex;
         margin-bottom: 30px;
@@ -381,6 +387,12 @@ small
     margin-top: 80px;
  }
 
+ @media (max-width: 350px) {
+ .portfolio .portfolio-content {
+    display: flex;
+    flex-direction: column;
+  }
+         
  .portfolio .portfolio-content .card{
     background-color:#ffffff;
  }
@@ -529,7 +541,7 @@ small
 
 @media (max-width: 767px) {
 .contact .info p, .contact .info a   {
-    font-size: 25px;
+    font-size: 20px;
     }
 }
 
