@@ -263,7 +263,7 @@ small
         gap: 20px;
     }
 
-    @media (max-width: 350px) {
+    @media (max-width: 400px) {
         .features .container {
           display: flex;
           flex-direction: column;
