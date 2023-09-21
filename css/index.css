@@ -305,7 +305,7 @@ small
     margin-top: 80px;
     }
 
-     @media (max-width: 350px) {
+     @media (max-width: 440px) {
         .services .services-content {
           display: flex;
           flex-direction: column;
